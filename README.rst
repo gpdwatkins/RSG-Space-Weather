@@ -2,15 +2,13 @@
 RSG-Space-Weather
 =================
 
-The documentation can be loaded in a web browser by opening::
+This project was completed as part of the MathSys MSc year by:
+George Watkins
+Kendal Foster
+yuanyi Zhu
+Jack Flynn
 
-  docs > build > html > index.html
-
-This is the readme. Please readme.
-
-Maybe add some notes or something here.
-
-
+Under the supervision of Prof. Sandra Chapman.
 
 Dependencies
 ------------
